@@ -70,4 +70,4 @@ CREATE USER hrm_admin WITH PASSWORD 'secret123';
 
 -- Huquq berish
 GRANT ALL PRIVILEGES ON DATABASE hrm_pro TO hrm_admin;
-```
+````
